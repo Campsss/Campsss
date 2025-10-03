@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas pela UNIBH </h3> <h3> Estagiário no TCEMG </h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas pela UNIBH. Estagiário no TCEMG </h3>
 
 - 🌱 I’m currently learning **HTML CSS, JAVA, C#, JAVASCRIPT AND PYTHON**
 
